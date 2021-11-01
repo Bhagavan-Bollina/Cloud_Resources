@@ -1,8 +1,0 @@
-[[36m2021-10-23 02:14:02[0m] [[92mstarttls-mail-detect[0m] [[94mnetwork[0m] [[34minfo[0m] stage.trymindtap.cengage.com:25
-[[36m2021-10-23 02:15:01[0m] [[92mstarttls-mail-detect[0m] [[94mnetwork[0m] [[34minfo[0m] trymindtap.cengage.com:25
-[[36m2021-10-23 11:02:10[0m] [[92mCVE-2018-15473[0m] [[94mnetwork[0m] [[33mmedium[0m] gedu.demo.cengage.com:22
-[[36m2021-10-23 11:22:31[0m] [[92mCVE-2018-15473[0m] [[94mnetwork[0m] [[33mmedium[0m] stage.trymindtap.cengage.com:22
-[[36m2021-10-23 11:23:21[0m] [[92mCVE-2018-15473[0m] [[94mnetwork[0m] [[33mmedium[0m] trymindtap.cengage.com:22
-[[36m2021-10-23 11:54:35[0m] [[92msmtp-service-detection[0m] [[94mnetwork[0m] [[34minfo[0m] securemail.cengage.com:25
-[[36m2021-10-23 11:55:15[0m] [[92msmtp-service-detection[0m] [[94mnetwork[0m] [[34minfo[0m] stage.trymindtap.cengage.com:25
-[[36m2021-10-23 11:56:15[0m] [[92msmtp-service-detection[0m] [[94mnetwork[0m] [[34minfo[0m] trymindtap.cengage.com:25
